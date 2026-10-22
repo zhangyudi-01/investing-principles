@@ -1,6 +1,6 @@
 # investing-principles
 
-基于[嘉信理财「7大投资原则」（Charles Schwab 7 Investing Principles）](https://international.schwab.com/investing-principles)构建的个人长期投资体系仓库，核心是一套 **70/30 科技进取型全天候资产配置组合**（70% 全球权益 + 30% 美国中期国债），通过全球低成本指数化投资与纪律性动态再平衡实现长期复利。
+基于[嘉信理财「7大投资原则」（Charles Schwab 7 Investing Principles）](https://international.schwab.com/investing-principles)构建的个人长期投资体系仓库，核心是一套长期、低成本、规则化的资产配置与执行框架。
 
 ## 文件导航
 
@@ -9,7 +9,7 @@
 | 文件 | 角色 | 内容摘要 |
 | :--- | :---: | :--- |
 | [investing_principles_portfolio.md](investing_principles_portfolio.md) | **方案** | 配置理念、70/30 资产蓝图与标的明细、四大模块配置逻辑——回答「买什么、为什么买」 |
-| [investment_discipline_rules.md](investment_discipline_rules.md) | **纪律 / 规则** | 仓位硬性约束、再平衡触发机制（日历定期 + ±5% 阈值熔断）、三情境 SOP、低摩擦执行守则——回答「何时动、怎么动、什么绝不做」 |
+| [investment_discipline_rules.md](investment_discipline_rules.md) | **纪律 / 规则** | 仓位硬性约束、再平衡触发机制（日历定期 + ±5% 阈值熔断）、三情境 SOP、低摩擦执行守则——回答「什么时候动、怎么动」 |
 | [investment_capital_ledger.md](investment_capital_ledger.md) | **记录** | 累计投入本金流水与按目标配比拆解的基准分配台账——回答「投了多少、如何拆分」 |
 
 辅助文件：
@@ -17,6 +17,12 @@
 | 文件 | 说明 |
 | :--- | :--- |
 | [investment_capital_ledger.xlsx](investment_capital_ledger.xlsx) | 台账的 Excel 版本，便于计算与维护，与 Markdown 台账同步更新 |
+
+## 当前状态（截至 2026-10-22）
+
+- **累计已投入本金**：**$5,027.24**
+- **本月追加金额**：**$1,870.00**（**$528 + $1,342**）
+- **最新状态**：已更新[投资本金记录与目标配比台账](investment_capital_ledger.md)
 
 ## 组合速览
 
